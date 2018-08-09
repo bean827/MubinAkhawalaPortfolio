@@ -55,7 +55,9 @@
     .menu-branding .portrait {
       width: 250px;
       height: 250px;
-      background: url("../images/headshot.jpg");
+      background: url("../images/head4_opt.jpg");
+      background-repeat: no-repeat;
+      position: center;
       border-radius: 50%;
       border: solid 3px red; }
   .menu .nav-item {
